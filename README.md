@@ -13,13 +13,13 @@
 
 * Discarded all cryptocurrencies that are not being traded. 
 
-* Removeed all rows that have at least one null value.
+* Removed all rows that have at least one null value.
 
 * Filtered for cryptocurrencies that have been mined.
 
 * Converted the remaining features with text values, `Algorithm` and `ProofType`, into numerical data. 
 
-* Standardizeed the dataset so that columns that contain larger values do not unduly influence the outcome.
+* Standardized the dataset so that columns that contain larger values do not unduly influence the outcome.
 
 ### Dimensionality Reduction
 
@@ -29,7 +29,7 @@
 
 ### Cluster Analysis with k-Means
 
-* Createed an elbow plot to identify the best number of clusters. 
+* Created an elbow plot to identify the best number of clusters. 
 
 ### Recommendation: Can the cryptocurrencies be clustered together? If so, into how many clusters?
 
